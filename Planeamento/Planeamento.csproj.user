@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="lib\Calendar\Objects\CalendarChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="lib\FormChargesNotebook\FormChargesNotebook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\ManagingHolidays\FormManagingHolidays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\ManagingHolidays\FormEditHolidays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\Maquina\FormMaquina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\FormTimeBlock\FormExistTimeBlock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\FormTimeBlock\FormNewTimeBlock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\GanttChart\Objects\Chart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FormPlaneamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lib\ManagingHolidays\FormBuildNewYear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
